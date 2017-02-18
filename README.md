@@ -1,6 +1,6 @@
 # KituraHelloWorld
 
-Visit www.kitura.io to get started on this demo!
+Visit www.kitura.io or check out the presentation deck to get started on this demo!
 
 ## Generate Xcode Project
 
